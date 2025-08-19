@@ -54,5 +54,4 @@ Người thực hiện: **Trần Hoài Nam**
 
 ---
 
-## 📂 Cấu trúc repo
 
